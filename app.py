@@ -13,7 +13,6 @@ from sklearn.decomposition import PCA
 from sklearn.datasets import load_iris
 import matplotlib.pyplot as plt
 
-
 # Page title
 st.title("🔍 K-Means Clustering App with Iris Dataset by Parichika Phumikakrak")
 
@@ -46,6 +45,5 @@ ax.set_xlabel("PCA1")
 ax.set_ylabel("PCA2")
 ax.legend()
 
-# Show plot and data
+# Show plot
 st.pyplot(fig)
-st.dataframe(reduced_df.head(10))

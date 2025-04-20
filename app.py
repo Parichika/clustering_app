@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 
 
 # Page title
-st.title("🔍 K-Means Clustering App with Iris Dataset")
+st.title("🔍 K-Means Clustering App with Iris Dataset by Parichika Phumikakrak")
 
 # Load dataset
 iris = load_iris()

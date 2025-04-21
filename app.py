@@ -14,7 +14,7 @@ from sklearn.datasets import load_iris
 import matplotlib.pyplot as plt
 
 # Page title
-st.title("🔍 K-Means Clustering App with Iris Dataset by Thanchanok Komonnak")
+st.title("🔍 K-Means Clustering App with Iris Dataset by Supatsara Saennang")
 
 # Load dataset
 iris = load_iris()
